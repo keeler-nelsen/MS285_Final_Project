@@ -22,4 +22,7 @@
 #Next, I will use the trained model to indentify and enumerate the fish in a new video and I will extract the number of fish and Rockfish the model identified in each video frame. I will then review the results of the models performance and make any corrections. I will also compare this to the species MaxN calculated by Jake Todd. The differences of the model and Jake's MaxN will tell me how the model does.
 
 #Other Pertinent Info (as necessary)
+#How to access training data images and labels:
+# Follow this link for training dataset in YOLO format: https://drive.google.com/drive/folders/10QfcUQJNyWHKnvAh13qAz6hr34aXPx2J?usp=sharing
+# See files for YOLO model - 'best.pt' for training weights from this dataset. 
 # MS285_Final_Project
